@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marlon Couto
 - 👀 I’m interested in TypeScript and C#
-- 🌱 I’m currently learning Asp.NET
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate in projects of programming languages that I master
 - 📫 How to reach me: [devpatola@proton.me](devpatola@proton.me)
 
