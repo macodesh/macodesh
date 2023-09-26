@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marlon Couto
-- 👀 I’m interested in TypeScript and C#
+- 👀 I’m interested in JavaScript and C#
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate in projects of programming languages that I master
 - 📫 How to reach me: [marloncouto199@gmail.com](marloncouto199@gmail.com)
